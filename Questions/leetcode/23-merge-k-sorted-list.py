@@ -1,4 +1,4 @@
-## Similar two merge sort, lists of similar sizes are merged two by two until we have only one list. 
+## Similar to the merge sort, lists of similar sizes are merged two by two until we have only one list. 
 ## This reduces the runtime complexity from O(KN) to O(log(k)N).
 
 # Definition for singly-linked list.
